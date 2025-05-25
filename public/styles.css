@@ -121,9 +121,10 @@ nav {
 }
 
 .logo__image {
-  height: 40px; /* Adjust as needed */
+  height: 30px; /* Adjust as needed */
   width: auto;
   object-fit: contain;
+  padding-left: 20px;
 }
 
 .logo__image:hover {
@@ -562,7 +563,7 @@ nav {
   height: 60px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid #fe214f;
+  border: 2px solid #669999;
   margin-top: 1rem;
 }
 
